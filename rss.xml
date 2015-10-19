@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[atw]]></title>
+        <description><![CDATA[atw]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 19 Oct 2015 07:32:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[8 tool per creare un'infografica in autonomia]]></title>
+            <description><![CDATA[<article><h1>8 tool per creare un'infografica in autonomia</h1><p>Come fare a digerire una quantità di informazioni che, nel solo arco dell'ultimo trentennio, si è più che quintuplicata? E' possibile far fruire ad un utente in pochi secondi informazioni che diversamente richiederebbero migliaia di paroleLa moda dell'infografica, immediata forma di presentazione che sta guadagnando sempre più popolarità e, in alcuni casi, diventando la forma standard di comunicazione, è davvero la next big thing del content marketing contemporaneo.</p><img src="https://41.media.tumblr.com/50b9763fcc5df2d21b939e7336189870/tumblr_inline_nw7bx9GFfh1qjhh96_540.jpg"></article>]]></description>
+            <link>http://allthatweb.sixeleven.it/post/131146465812/8-tool-per-creare-infografiche</link>
+            <guid isPermaLink="false">7be94141-639b-4e5c-9b55-7db9b28f2448</guid>
+            <pubDate>Mon, 19 Oct 2015 07:32:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
