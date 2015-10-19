@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[atw]]></title>
         <description><![CDATA[atw]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/atw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Oct 2015 07:32:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 19 Oct 2015 07:33:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/atw/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Al 'Con di Barcellona, lavorando per i Drupal Dev Days di Milano]]></title>
+            <description><![CDATA[<article><h1>Al 'Con di Barcellona, lavorando per i Drupal Dev Days di Milano</h1><p>Dopo Praga ed Amsterdam, anche quest'anno sixeleven ha partecipato all'annuale edizione del DrupalCon, il più importante evento per la grande community dell'universo Drupal, il framework scelto dalla nostra agenzia per la realizzazione dei progetti web.Quest'anno si è tenuto a Barcellona, un'ottima location per favorire le attività di networking (ho detto forse feste?!)</p><img src="http://41.media.tumblr.com/0d679a36243d6c41ca84f55fa9e9567f/tumblr_inline_nvl26asxtU1qjhh96_500.jpg"></article>]]></description>
+            <link>http://allthatweb.sixeleven.it/post/130325483397/report-drupalcon-barcellona</link>
+            <guid isPermaLink="false">3aa0dbce-2356-4020-a794-e32c435d3958</guid>
+            <pubDate>Mon, 19 Oct 2015 07:33:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[8 tool per creare un'infografica in autonomia]]></title>
             <description><![CDATA[<article><h1>8 tool per creare un'infografica in autonomia</h1><p>Come fare a digerire una quantità di informazioni che, nel solo arco dell'ultimo trentennio, si è più che quintuplicata? E' possibile far fruire ad un utente in pochi secondi informazioni che diversamente richiederebbero migliaia di paroleLa moda dell'infografica, immediata forma di presentazione che sta guadagnando sempre più popolarità e, in alcuni casi, diventando la forma standard di comunicazione, è davvero la next big thing del content marketing contemporaneo.</p><img src="https://41.media.tumblr.com/50b9763fcc5df2d21b939e7336189870/tumblr_inline_nw7bx9GFfh1qjhh96_540.jpg"></article>]]></description>
